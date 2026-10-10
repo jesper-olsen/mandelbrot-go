@@ -13,7 +13,7 @@ Single Thread/Multi-thread shows the number of seconds it takes to do a 5000x500
 
 | Language    | Repository                                                           | Single Thread   | Multi-Thread | Simd | Multi-Thread + Simd |
 | :--------   | :------------------------------------------------------------------- | ---------------:| -----------: | ----:| ------------------: |
-| Awk         | [mandelbrot-awk](https://github.com/jesper-olsen/mandelbrot-awk)     |           417.9 |              |      |                     |
+| Awk         | [mandelbrot-awk](https://github.com/jesper-olsen/mandelbrot-awk)     |           146.3 |              |      |                     |
 | Bash        | [mandelbrot-bash](https://github.com/jesper-olsen/mandelbrot-bash)   |         10187.3 |              |      |                     |
 | C           | [mandelbrot-c](https://github.com/jesper-olsen/mandelbrot-c)         |             3.6 |          0.6 |  0.7 |               0.2   |
 | C++         | [mandelbrot-cpp](https://github.com/jesper-olsen/mandelbrot-cpp)     |             3.7 |          0.6 |  0.7 |               0.2   |
