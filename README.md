@@ -23,7 +23,7 @@ Single Thread/Multi-thread shows the number of seconds it takes to do a 5000x500
 | [Java](https://github.com/jesper-olsen/mandelbrot-java)        |             3.9 |          0.8 |  1.4 |               0.5   |
 | [Lean](https://github.com/jesper-olsen/mandelbrot-lean)        |             4.0 |              |      |                     |
 | [Lua](https://github.com/jesper-olsen/mandelbrot-lua)          |            33.2 |              |      |                     |
-| [Mojo](https://github.com/jesper-olsen/mandelbrot-mojo)        |             3.8 |          1.2 |  0.7 |               0.4   |
+| [Mojo](https://github.com/jesper-olsen/mandelbrot-mojo)        |             3.8 |          1.1 |  0.6 |               0.2   |
 | [Odin](https://github.com/jesper-olsen/mandelbrot-odin)        |             4.4 |              |      |                     |
 | [Py](https://github.com/jesper-olsen/mandelbrot-py)            |     (pure) 93.3 | (jax)    5.9 |      |                     |
 | [R](https://github.com/jesper-olsen/mandelbrot-R)              |           335.0 |              |      |                     |
